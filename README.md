@@ -9,6 +9,8 @@ Eu sabo:
     <img align="center" alt="Joaolucas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="margin-top: 1 rem;">
     <img align="center" alt="Joaolucas-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="margin-top: 1 rem;">
     <img align="center" alt="Joaolucas-arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" style="margin-top: 1 rem;">
+    <img align="center" alt="Joaolucas-fusion360" height="30" width="30" src="https://www.softexia.com/wp-content/uploads/2024/04/Autodesk_Fusion_360.webp">
+
   </div>
 
   
